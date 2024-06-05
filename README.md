@@ -1,3 +1,4 @@
 # ICD-pinho
-David Nuñes
-Luis Bravin
+# David Nuñes
+# Luis Bravin
+# Ximena Gomez
